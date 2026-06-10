@@ -134,7 +134,6 @@ def get_valid_guess(guessed_letters):
             print(f"⚠️ You have already guessed '{guess}'. Try a different letter.")
         else:
             return guess
-def play_round():
     """Executes a single complete round of Hangman."""
     secret_word = get_word()
 def play_round(scores):
