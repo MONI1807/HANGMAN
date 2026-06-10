@@ -4,7 +4,7 @@ WORDS = ["cloud", "virus", "robot", "cookie", "bug"]
 # Predefined dictionary of words and their corresponding clues
 WORD_DATABASE = {
     "cloud": "Stores file online,not in the sky.",
-    "virus": "can affect both computers and living organisms.",
+    "virus": "Can affect both computers and living organisms.",
     "robot": "A machine that can perform tasks automatically.",
     "cookie": "Stored by websites,but also a sweet snack.",
     "bug": "Causes problems in code,but also an insert."
